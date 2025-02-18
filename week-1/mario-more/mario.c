@@ -1,7 +1,7 @@
 #include <cs50.h>
 #include <stdio.h>
 
-#define ESPACE_BETWEEN_PYRAMIDS 2
+#define ESPACE_BETWEEN_PYRAMIDS "  "
 
 // Prototype functions
 int get_height();
@@ -45,10 +45,8 @@ void print_row(int spaces, int bricks, int spaces2, int bricks2)
         printf("#");
     }
     // Print middle spaces
-    for (int k = 0; k < spaces2; k++)
-    {
-        printf("  ");
-    }
+    printf(ESPACE_BETWEEN_PYRAMIDS);
+
     // Print bricks right
     for (int l = 0; l < bricks2; l++)
     {
