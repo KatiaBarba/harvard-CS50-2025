@@ -15,7 +15,7 @@
 -Scrabble
 -Readability
 -Caesar
--Substitution,
+-Substitution
 
 <h2> WEEK 3 </h2>
 <h2> WEEK 4 </h2>
