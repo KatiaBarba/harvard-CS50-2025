@@ -34,26 +34,26 @@ int get_height()
 
 void print_row(int spaces, int bricks, int spaces2, int bricks2)
 {
-    // Imprimir espacios
+    // Print spaces
     for (int i = 0; i < spaces; i++)
     {
         printf(" ");
     }
-    // Imprimir #
+    // Print bricks
     for (int j = 0; j < bricks; j++)
     {
         printf("#");
     }
-    //imprimir espacios de en medio
+    // Print middle spaces
     for (int k = 0; k < spaces2; k++)
     {
         printf("  ");
     }
-    //Imprimir ladrillos derecha
+    // Print bricks right
     for (int l = 0; l < bricks2; l++)
     {
         printf("#");
     }
-    printf("\n"); // Nueva línea
+    printf("\n"); // New line
 
 }
