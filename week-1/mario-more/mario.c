@@ -1,9 +1,9 @@
-// MARIO MORE Y DE MEMORIA !!!! 8)
 #include <cs50.h>
 #include <stdio.h>
 
 #define ESPACE_BETWEEN_PYRAMIDS 2
 
+// Prototype functions
 int get_height();
 void print_row(int spaces, int bricks, int spaces2, int bricks2);
 
