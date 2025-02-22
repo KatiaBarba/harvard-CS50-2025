@@ -1,6 +1,5 @@
 # My programs from the Harvard's CS50 course.
-:construction: Project under construction :construction:
-
+<h4 align="center"> :construction: Project under construction :construction: </h4>
 
 <h2> WEEK 0 </h2>
 
