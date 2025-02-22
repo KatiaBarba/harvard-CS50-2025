@@ -1,5 +1,5 @@
 # My programs from the Harvard's CS50 course.
-:construction: Proyecto en construcción :construction:
+:construction: Project under construction :construction:
 
 
 <h2> WEEK 0 </h2>
