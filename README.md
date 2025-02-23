@@ -14,10 +14,10 @@
 
 <h2> WEEK 2 </h2>
 
-- [ ] Scrabble
-- [ ] Readability
-- [ ] Caesar
-- [ ] Substitution
+* [ ] Scrabble
+* [ ] Readability
+* [ ] Caesar
+* [ ] Substitution
 
 <h2> WEEK 3 </h2>
 <h2> WEEK 4 </h2>
