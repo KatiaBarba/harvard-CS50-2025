@@ -5,11 +5,11 @@
 
 <h2> WEEK 1 </h2>
 
-- [x] Hello, World
-- [x] Hello, It's me
-- [x] Mario-less
-- [x] Mario-more
-- [x] Cash
+- ✅ Hello, World
+- ✅ Hello, It's me
+- ✅ Mario-less
+- ✅ Mario-more
+- ✅ Cash
 - [ ] Credit
 
 <h2> WEEK 2 </h2>
