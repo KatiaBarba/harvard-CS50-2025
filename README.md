@@ -9,8 +9,8 @@
 - ✅ Hello, It's me
 - ✅ Mario-less
 - ✅ Mario-more
-- ✅ Cash
-- [ ] Credit
+-  [x] Cash
+-  [ ] Credit
 
 <h2> WEEK 2 </h2>
 
